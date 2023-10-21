@@ -6,10 +6,7 @@
 @endsection
 
 @section('content')
-<div id="main-banner">
 
-    <img src="/img/banners/shutdown.jpg" alt="" id="imgbanner">
-</div>
 {{-- <script src="/js/musicfunctions.js"></script> --}}
 {{-- <h1 id="greeting"></h1>
 <p id="currentTime"></p> --}}
