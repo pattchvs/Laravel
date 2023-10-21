@@ -15,7 +15,7 @@ The second is a project made by myself called Ducky Music is a simple Laravel ap
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pattchvs/spring.git
+git clone https://github.com/pattchvs/laravel.git
 ```
 2. Select one of the projects avaliable at the folder and open it on terminal
 
